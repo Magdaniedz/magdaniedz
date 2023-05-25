@@ -1,16 +1,14 @@
-### Hi there 👋
+### Cześć Wszystkim! 👋
 
-<!--
-**Magdaniedz/magdaniedz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mam na imię Magda i jestem początkująca Testerką Oprogramowania. Obecnie zdobywam moje pierwsze doświadczenie jako Freelance Software Tester na kilku platformach crowdtesting  (TestBirds, uTest i Test IO).  
+Przez ostatni rok skupiałam się na nauce i rozwoju zawodowym, zdobywając nowe umiejętności,  aby móc w pełni wykorzystać moją wrodzoną dociekliwość, cierpliwość i sumienność, dzięki którym jestem gotowa wykonywać swoją pracę z ogromnym zaangażowaniem i nastawieniem na dostarczanie produktów wysokiej jakości. 
 
-Here are some ideas to get you started:
+## CERTYFIKATY
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* A4Q Selenium Certified Tester FL
+* ISTQB Certified Tester FL
+* Java Certificate wystawiony przez JavaStart
+* LCCI IQ in English for Business Level 2 
+
+### [Kliknij tutaj, aby zobaczyc moje portfolio](https://github.com/magdaniedz/tester_portfolio)
+
