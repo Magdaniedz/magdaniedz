@@ -10,5 +10,5 @@ Przez ostatni rok skupiałam się na nauce i rozwoju zawodowym, zdobywając nowe
 * Java Certificate wystawiony przez JavaStart
 * LCCI IQ in English for Business Level 2 
 
-#### [Kliknij tutaj, aby zobaczyc moje portfolio](https://github.com/magdaniedz/tester_portfolio)
+#### [Kliknij tutaj, aby zobaczyć moje portfolio](https://github.com/magdaniedz/tester_portfolio)
 
